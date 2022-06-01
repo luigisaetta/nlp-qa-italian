@@ -44,6 +44,11 @@ The Italian SQuAD dataset is not so big.
 
 Using a **GPU V100** the training for 3 epochs takes around **40 mins**.
 
+## Wiki.
+This repo has a Wiki. I'll update every time I have new details to document.
+
+If you want more info on the details, or want to download the trained model, go to the Wiki.
+
 
 
 
