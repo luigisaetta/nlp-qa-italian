@@ -35,14 +35,14 @@ With 2 epochs these are the result obtained so far:
 
 | Metric | Value |
 |--------|-------|
-|   EM   | 63.57 |
-|   F1.  | 75.16 |
+|   EM   | 63.95 |
+|   F1.  | 75.27 |
 
 ## Training time.
 
 The Italian SQuAD dataset is not so big.
 
-Using a **GPU V100** the training for 3 epochs takes around 40 mins.
+Using a **GPU V100** the training for 3 epochs takes around **40 mins**.
 
 
 
