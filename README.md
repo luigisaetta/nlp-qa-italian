@@ -31,7 +31,7 @@ Then, the Transformer has been fine-tuned on Italian **SQuAD-it** dataset, again
 
 ## Metrics.
 
-With 2 epochs these are the result obtained so far:
+With 2 epochs these are the results obtained so far:
 
 | Metric | Value |
 |--------|-------|
