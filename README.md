@@ -19,6 +19,18 @@ One of the way to execute this task is with **"Extractive Question&Answer"**, wh
 
 ## The power of Transfer Learning applied to Q&A.
 
+I have started from a model, available on HF HUb, trained on Italian language.
+The model is: dbmdz/bert-base-italian-xxl-cased
+
+Then, the Transformer has been fine-tuned on Italian **SQuAD-it** dataset, again available on HF Hub.
+
+## Metrics.
+
+With 2 epochs these are the result obtained so far:
+
+* EM: 63.57
+* F1: 75.16
+
 
 
 
