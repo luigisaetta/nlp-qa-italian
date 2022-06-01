@@ -1,7 +1,7 @@
 # NLP: Question&Answering in Italian
 In this repository I have collected some of the work done on developing a model, based on **Transformers**, for the Q&amp;A task in Italian Language.
 
-## Intro
+## Intro.
 The successful development of an NLP model depends on the availability of large datasets that you can use to train your model.
 For the Q&A task the most famous dataset is the **Stanford Querying and Answering** dataset (SQuAD), in English.
 
@@ -38,6 +38,11 @@ With 2 epochs these are the result obtained so far:
 |   EM   | 63.57 |
 |   F1.  | 75.16 |
 
+## Training time.
+
+The Italian SQuAD dataset is not so big.
+
+Using a **GPU V100** the training for 3 epochs takes around 40 mins.
 
 
 
