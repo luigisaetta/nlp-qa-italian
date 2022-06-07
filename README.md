@@ -45,7 +45,7 @@ The Italian squad_it dataset is not so big.
 Using a **GPU V100** the training for 3 epochs takes around **40 mins**.
 
 ## Demo with UI
-I have developed a simple demo. THe UI is build using the nice library **Gradio**
+I have developed a simple demo. The UI is build using the nice library [**Gradio**](https://github.com/gradio-app/gradio)
 
 The NoteBook with the demo is [here](https://github.com/luigisaetta/nlp-qa-italian/blob/main/demo_qa_model.ipynb)
 
