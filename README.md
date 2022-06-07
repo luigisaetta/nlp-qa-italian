@@ -5,7 +5,7 @@ In this repository I have collected some of the work done on developing a model,
 The successful development of an NLP model depends on the availability of large datasets that you can use to train your model.
 For the Q&A task the most famous dataset is the **Stanford Querying and Answering** dataset (SQuAD), in English.
 
-An Italian version of this dataset is available, called **Squad_it**. It has been obtained through semi-automatic translation and is available in the HuggingFace HUB.
+An Italian version of this dataset is available, called **squad_it**. It has been obtained through semi-automatic translation and is available in the HuggingFace HUB.
 You can find info on this dataset here: https://huggingface.co/datasets/squad_it
 
 In this repository I have collected the code used to develop a Model, based on BERT, trained on Italian language, and fine tuned on Squad_it.
@@ -40,9 +40,14 @@ With 2 epochs these are the results obtained so far:
 
 ## Training time.
 
-The Italian SQuAD dataset is not so big.
+The Italian squad_it dataset is not so big.
 
 Using a **GPU V100** the training for 3 epochs takes around **40 mins**.
+
+## Demo with UI
+I have developed a simple demo. THe UI is build using the nice library **Gradio**
+
+The NoteBook with the demo is [here](https://github.com/luigisaetta/nlp-qa-italian/blob/main/demo_qa_model.ipynb)
 
 ## Wiki.
 This repo has a Wiki. I'll update every time I have new details to document.
