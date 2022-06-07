@@ -27,7 +27,7 @@ The model is: **dbmdz/bert-base-italian-xxl-cased**
 
 You can find information regarding the pre-trained model here: https://huggingface.co/dbmdz/bert-base-italian-xxl-cased
 
-Then, the Transformer has been fine-tuned on Italian **SQuAD-it** dataset, again available on HF Hub.
+Then, the Transformer has been fine-tuned on Italian [**squad_it**](https://huggingface.co/datasets/squad_it) dataset, again available on HF Hub.
 
 ## Metrics.
 
