@@ -1,5 +1,8 @@
 # NLP: Question&Answering in Italian
-In this repository I have collected some of the work done on developing a model, based on **Transformers**, for the Q&amp;A task in Italian Language.
+In this repository I have collected the work done on developing a model, based on **Transformers**, for the Q&amp;A task in Italian Language.
+
+## Updates
+* last update: 02/08/2022
 
 ## Intro.
 The successful development of an NLP model depends on the availability of large datasets that you can use to train your model.
